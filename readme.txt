@@ -1,4 +1,4 @@
-=== Oceanfinvest ===
+=== Ocean ===
 Contributors: the WordPress team
 Tested up to: 6.0
 Stable tag: 2.0
