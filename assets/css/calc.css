@@ -1,0 +1,56 @@
+#calheader {
+    background: #105e9b;
+    background-repeat: repeat;
+    background-size: cover;
+    position: relative;
+    padding: 70px 0 100px;margin-top: 157px;
+}
+.headertxt{
+   text-align: left;
+   color:white;
+}
+.innercontent{
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    color: #105e9b;
+    margin-top: -70px;
+}
+
+.calinvestList li {
+    list-style: none;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'poppinslight';
+    width: 33%;
+    border-right: 1px solid #FFFFFF;
+    padding-left: 15px;
+}
+.innersec
+{
+   border-radius: 14px 10px 1px 1px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  padding: 3%;
+  color: #105e9b;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+.card p {
+    font-size: 15px;
+    color: #636363;
+    font-family: 'poppinslight';
+}
+.btncal
+{
+   width:20%;
+}

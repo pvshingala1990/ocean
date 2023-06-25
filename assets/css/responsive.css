@@ -1,0 +1,598 @@
+@media only screen and (max-width:1366px) {
+	.nav-menu .drop-down .drop-down ul { left: -90%; }
+	.nav-menu .drop-down .drop-down:hover > ul { left: -100%; }
+	.nav-menu .drop-down .drop-down > a:after { content: "\ea9d"; }
+}
+@media only screen and (max-width:1200px) {
+	.level ul { width: 100%; }
+	.way { font-size: 49px; }
+	.courseDetail h2 { padding-right: 0px; }
+	.why-choose-title h1 { font-size: 48px; font-family: 'poppinssemibold'; color: #fff; line-height: 51px; letter-spacing: 3px; }
+	.why-choose-title { margin-top: -151px; }
+	.top-sec h2 { font-size: 45px; }
+	.clientText h2 { font-size: 38px; line-height: 48px; }
+	.clientText:after { background-size: 65%; right: -54px; top: -8px; height: 153px; }
+	.clientouter { margin: 0 45px 0 34px; }
+	.tipsSec li { padding: 20px; }
+	.investBlock h3 { font-size: 16px; }
+	header .search { flex: none; }
+	.navbar-expand-lg { padding-left: 0px; padding-right: 0px;}
+	.nav-menu > ul > li { padding: 8px; }
+	.nav-menu a { font-size: 15px; }
+	header .dropdown { margin: 0 10px; }
+	.hamicon { padding: 8px; }
+}
+@media only screen and (max-width:1170px) {
+	.courseBnrText h1 { font-size: 40px; }
+	.courseBnrText h3 { font-size: 25px; }
+	.courseBnrText p { font-size: 13px; font-size: 13px; }
+	.yellow-btn.signIn { font-size: 13px; padding: 10px 9px 9px; top: -1px; }
+	.courseDetail h2 { font-size: 18px; }
+	.courseDetail.course-category h2 { padding-right: 0px; margin-bottom: 30px; padding-bottom: 30px; margin-bottom: 0; }
+	.bannerText h1 { font-size: 45px; line-height: 45px; }
+	.bannerText h3 { font-size: 30px; }
+	.bannerText p { font-size: 13px; padding-bottom: 19px; }
+	.way { font-size: 40px; line-height: 46px; }
+	.searchCourse { margin-top: 35px; }
+	.clientText p { padding-right: 0px; }
+	.top-sec h2 { font-size: 40px; padding-bottom: 34px; }
+	.countDiv li .count-box span { font-size: 75px; }
+	.studentSays-outer .owl-carousel .owl-stage-outer { padding: 23px 0px; }
+	.studentSays h5 { font-size: 25px; margin-bottom: 5px; }
+	.rank { padding-bottom: 5px; font-size: 20px; }
+	.studentSays p { font-size: 15px; line-height: 22px; }
+	.clientText h2 { margin-bottom: 0px; }
+	.contactTitle { font-size: 38px; margin-bottom: 15px; }
+	.subTitle { margin-bottom: 15px; }
+	#testimonial-bnr h1 { font-size: 40px; }
+	#banner-Sec .bannerText h1 { font-size: 33px; line-height: 37px; }
+	#banner-Sec .bannerText h3 { padding-top: 20px; line-height: 20px; margin-bottom: 20px; font-size: 22px; }
+}
+@media only screen and (max-width:999px) {
+	.courseBnrText h1 { font-size: 35px; }
+	.courseBnrText { padding-right: 0px; }
+	.level:after { right: 0px; }
+	#myHeader { padding: 0px 0; }
+	footer ul li.title { font-size: 17px; margin-bottom: 3px; }
+	.logoFooter { padding-bottom: 4px; }
+	.bannerText h1 { font-size: 38px; line-height: 50px; }
+	.serviceWrapper { padding: 15px; }
+	.serviceWrapper ul li { padding: 0px 15px; }
+	.serviceWrapper ul li h4 { font-size: 16px; }
+	.why-choose-title { margin-top: -168px; padding-left: 29px; padding-right: 15px; }
+	.lession-no-outer:after { left: 0px; }
+	.testimonial-sec .clientouter { max-width: 87%; }
+	#banner-Sec .bannerText { padding-bottom: 30px; }
+	.goals { padding-top: 40px; }
+	.goals h3 { font-size: 29px; }
+	.goals .row.mt80 { margin-top: 80px; }
+}
+@media only screen and (max-width:991px) {
+	.mr41 { margin-right: 15px; }
+	.level h2 { font-size: 16px; }
+	.courseDetail h2 { font-size: 14px; line-height: 18px; }
+	.mobile-nav-toggle { top: 2px; }
+	.list-group-item { padding: 15px 8px 10px; font-size: 13px; }
+	.bannerText { padding-top: 0px; }
+	.bannerText h1 { font-size: 33px; line-height: 39px; }
+	.bannerText h3 { font-size: 23px; }
+	.bannerText p br { display: none; }
+	.bannerText p { margin-bottom: 0px; }
+	.why-choose-title { margin-top: -125px; padding-left: 15px; }
+	.why-choose-title h1 { font-size: 35px; line-height: 37px; }
+	#course h1 { font-size: 35px; padding-top: 3px; }
+	.course-img { margin-top: 24px; }
+	#course { background-position: 0 281px; }
+	.way { font-size: 30px; line-height: 39px; letter-spacing: 1px; }
+	.homework h3 { margin-bottom: 10px; }
+	.homework P { letter-spacing: 1px; margin-bottom: 10px; }
+	.top-sec h2 { font-size: 35px; }
+	.top-sec h4 { margin-bottom: 5px; }
+	.professional-img { margin-top: 19px; }
+	.professional-say { margin-right: 7px; }
+	#testimonial-bnr h1 { font-size: 30px; }
+	.student-view .studentImg { position: inherit; left: 0; margin: 0 auto; }
+	.studentReview { padding-left: 0px; text-align: center; padding-top: 15px; }
+	.student-view { padding: 20px; }
+	.tipsSec li { padding: 12px; }
+	.tipsSec li .icon { width: 36px; height: 36px;}
+	.investBlock h3 { font-size: 13px; }
+	.home-service-section .serviceBoxDetails { padding: 20px; }
+	.home-service-section .serviceBoxDetails img { max-height: 50px; }
+	.home-service-section .serviceBoxDetails h3 { margin: 10px 0; font-size: 20px;}
+	.home-service-section .serviceBoxDetails p { font-size: 14px; }
+	.home-service-section .serviceBoxDetails p br { display: none; }
+	.landingBanner { margin-top: 155px; }
+	.landingBanner h3 { max-width: 60%; }
+	.ourProductSlider .owl-item .op-silder-disc { min-height: 222px; }
+}
+@media (max-width:768px) {
+	.get-started-btn { margin: 0 48px 0 0; padding: 6px 20px 7px 20px; }
+	.topbarheader { text-align: center; }
+}
+@media only screen and (max-width:767px) {
+	.loginForm h1, .creatpwd h1 { font-size: 35px; }
+	.subheading { font-size: 16px; }
+	.loginForm { margin: 0px auto 0; }
+	.loginForm.mt150 { margin-top: 50px !important; }
+	.loginForm.signtop { margin-top: 50px !important; }
+	#coursePage { padding-top: 30px; }
+	.left-top a { width: 82%; }
+	.left-top h3 { font-size: 20px; }
+	.list-group-item { padding: 12px 10px 6px; line-height: 25px; }
+	.courseBnrText h1 { font-size: 25px; margin-bottom: 13px; }
+	.courseBnrText h3 { font-size: 19px; }
+	#myHeader { padding-top: 0px; z-index: 5; padding-bottom: 0px; }
+	.mobile-nav-toggle { top: 1px; }
+	.yellow-btn.signIn { top: -3px; }
+	.loadingText { padding: 5px 0 10px; }
+	footer ul li { font-size: 13px; line-height: 21px; }
+	footer ul { padding-bottom: 14px; }
+	.bannerImg { margin-top: 40px; }
+	.why-choose-title { margin-top: 50px; text-align: center; }
+	.why-choose-title h1 { font-size: 30px; color: #000; letter-spacing: normal; }
+	.why-choose-title h1 br { display: none; }
+	.bannerText { text-align: center; }
+	.why-choose-title h4 { margin-top: 13px; }
+	.why-choose-title h4 br { display: none; }
+	.whyChoose { padding-bottom: 45px; }
+	#course { padding-top: 26px; }
+	#course h1 { font-size: 32px; padding-top: 0px; }
+	#course { background-position: 0 208px; }
+	#smart-learn { padding-top: 50px; text-align: center; }
+	.way { font-size: 25px; }
+	#course h3 { font-size: 18px; }
+	.homework P { letter-spacing: normal; font-size: 14px; }
+	.searchCourse .col-md-3.text-right { text-align: center !important; }
+	.searchCourse .yellow-btn { margin-top: 30px; }
+	.yellow-btn.mr41 { margin-right: 11px; }
+	.serviceWrapper ul li { width: 100%; text-align: center; }
+	.red-rect { position: absolute; right: -11px; top: -11px; }
+	.purple-rect { position: absolute; left: -10px; bottom: -10px; }
+	.countDiv li .count-box h3 { font-size: 15px; }
+	.countDiv li .count-box span { font-size: 43px; }
+	.top-sec { text-align: center; }
+	#proffessionals { padding: 30px 0 30px; }
+	.top-sec h2 { font-size: 30px; padding-bottom: 3px; }
+	.countDiv li:after { height: 100%; top: -8px; }
+	.studentImg { margin: 0 auto; }
+	.studentSays { position: inherit; left: 0; top: 35px; padding-left: 0px; padding-right: 0px; }
+	.clientSlide { text-align: center; padding: 15px 15px 50px; }
+	.clientSays { padding: 30px 0; }
+	.clientText h2 { font-size: 30px; line-height: normal; }
+	.clientText { text-align: center; }
+	.clientText:after { background-size: 28%; right: 0px }
+	.contactTitle { font-size: 30px; }
+	.owl-next { right: -10px; }
+	.owl-prev { left: -10px; }
+	.counts { height: 250px; }
+	.service-icon-sec { margin: 0 auto 20px; }
+	.serviceWrapper ul li:after { border-left: none; }
+	.clientouter { margin: 0 20px 0 22px; }
+	.testimonial-menu ul li { margin: 0 22px; }
+	.testimonial-menu ul li a { font-size: 15px; }
+	.testimonial-menu ul li:after { margin-left: 19px; }
+	.clientName { font-size: 24px; top: 0px; }
+	.overview { padding-top: 0px; }
+	.overview-detail p { font-size: 14px; line-height: 24px; }
+	.lession-no-outer:after { border-left: none; }
+	.overview-detail p { margin-top: 16px; }
+	.lession-no-outer, .lession-no { float: none; }
+	.testimonial-sec h2 { font-size: 30px; }
+	.testimonial-sec h4 { font-size: 17px; margin-bottom: 14px; }
+	.testimonial-sec .studentSays, .ratingDiv { text-align: center; }
+	.testimonial-rating .col-md-6.text-right { text-align: center !important; margin-top: 23px; }
+	#testimonial-bnr h1 { font-size: 25px; line-height: 33px; }
+	.play-time { text-align: left; margin-top: 19px; }
+	.video-intro { margin-top: 30px; margin-left: 17px; }
+	.block1 h2 { font-size: 20px; }
+	.video-detial h4 { font-size: 18px; }
+	.contentTop h3 { font-size: 20px; }
+	.content-list li { padding: 12px 10px; }
+	.content-list li a { font-size: 14px; }
+	.testimonial-menu { padding: 18px 22px; }
+	#banner-Sec .bannerText { padding-top: 30px; }
+	.tipsSec { flex-direction: column; }
+	.tipsSec li { padding: 20px !important; border-bottom: 1px solid #105E9B;}
+	.tipsSec li:last-child { border-bottom: 0px; }
+	.investBlock h3 { font-size: 16px; }
+	.navbar-expand-lg { padding-left: 1rem; padding-right: 1rem;}
+	.landingBanner h3 { max-width: 100%; }
+	.whatOurClientSaySlider p.content { min-height: inherit; }
+}
+@media only screen and (max-width:575px) {
+	.locsection { grid-template-columns: repeat(1, 1fr); display: grid; grid-gap: 20px; grid-row-gap: 30px; margin-right: 0; }
+	.loactionbox img { position: absolute; right: 48%; top: -15%; }
+	.mailimg { width: 9%; }
+	#exTab3 li { background-color: #105e9b; width: 100%; }
+	#exTab3 li.active { background-color: #fafafa; width: 100%; }
+	.tabsrowdata img { width: 30%; margin: 0 auto; display: block; }
+	.graybgrows img { width: 50%; }
+	.loginForm h1, .creatpwd h1 { font-size: 26px; }
+	.loginForm { max-width: 100%; margin: 0px auto 0; padding-bottom: 40px; padding-left: 15px; padding-right: 15px; }
+	.yellow-btn.signIn { font-size: 9px; line-height: 17px; padding: 7px 2px 6px; min-width: 78px; margin-left: 7px; }
+
+	/*.yellow-btn.mr41{*/
+
+	/*	margin-right: 36px;*/
+
+	/*}*/
+
+	.search { display: none; }
+	.yellow-btn.mr41 { margin-right: auto;    margin-top: 20px; }
+	.reset { text-align: left; }
+	.level { padding-bottom: 10px; }
+	.courseDetail.course-category h2 { padding-bottom: 10px; }
+	.course-div .price { font-size: 22px; padding-top: 0px; }
+	.course-div .likeCircle { bottom: 10px; }
+	.courseDetail.course-category { padding: 24px 11px 24px 15px; position: inherit; }
+	.course-div .feature-img { width: 100%; border-right: none; border-bottom: 4px solid #FEDE01; }
+	.coursebg { width: 100%; }
+	.left-top a { width: 61%; }
+	.testimonial-menu ul li { display: block; }
+	.testimonial-menu ul li:after { border-left: none; }
+	.clientName { font-size: 18px; }
+	.testimonial-rating { padding-top: 30px; }
+	.testimonial-sec h2 { font-size: 27px; }
+	.overview-detail { text-align: center; }
+	.section-title { font-size: 28px; line-height: 38px; }
+	.tipsSec li { padding: 30px 10px 10px 30px; border-right: none; width: 100%; }
+	#whychoose p { font-size: 18px; }
+	.count-box { text-align: center; margin-top: 40px; }
+	.yearBar { margin-top: 40px; }
+	.year { font-size: 24px; }
+	.investList li h5 { font-size: 30px; margin-bottom: 0px; }
+	.investList li { font-size: 20px; width: 50%; }
+	.investList li:nth-child(2) { border-right: none; }
+	.investList li:nth-child(1), .investList li:nth-child(2) { margin-bottom: 25px; }
+	.plan_text h2 { font-size: 30px; }
+	#app { padding: 80px 0 80px 0; }
+	.appImg img { margin-bottom: 30px; }
+	.appDetail .section-title { text-align: center; }
+	.appDetail p { text-align: center; }
+	.downloadTitle { text-align: center; }
+	.dwnldBtn { text-align: center; }
+	.owl-carousel { margin-top: 30px; }
+	.mobAccount h2 { color: #fff; font-size: 34px; font-family: 'poppinssemibold'; }
+	.letsStart { font-size: 22px; }
+	.countryCode { font-size: 36px; }
+	.mobileField .form-group .form-control { font-size: 36px; height: 48px; }
+	.mb50 { margin-bottom: 20px; }
+	#clientSay { padding: 50px 0; background-color: #fff; }
+	#fundPartner { padding: 50px 0; }
+	.partnerIcon li { width: 33%; }
+	.partnerIcon li img { height: 60px; margin-bottom: 15px; }
+	#calheader { padding: 70px 0 70px; }
+	#budgetingservice { padding: 50px 0 0px 0; }
+	.budgetingserv-title { font-size: 26px; line-height: 32px; }
+	.budgetingservdetail p { font-size: 14px; line-height: 22px; }
+	#budgetingservice h4 { font-size: 18px; line-height: 24px; padding-top: 20px; }
+	.allserviceformsdetails-title { font-size: 24px; line-height: 34px; }
+	#allservicenavigation { padding: 50px 0 50px 0; }
+	.allservicenavigation { padding: 30px 20px !important; }
+	#allserviceforms { padding: 80px 0 0px 0; }
+	.rightarrows img { width: 18%; }
+	.frminnerdiv > .row { margin-right: 0px; margin-left: 0px; }
+	.confrmsection { padding: 5% 5%; }
+	#allserviceforms .btnfrmserv { float: left; }
+	.footerLink { padding: 18px 0 0; }
+	.footerLogo img { width: 50% !important; }
+	.footerLink li:first-child { width: 100%; }
+	.socilaLink { padding: 0px 0px 0px 0px; }
+	.footerLink li { width: 50%; margin-top: 15px; }
+	.copyright { font-size: 14px; }
+	#contactusfromsection { padding: 80px 0px 0px 0px; }
+	.addnumber { padding-right: 10%; }
+}
+@media only screen and (max-width:370px) {
+	.mobile-nav-toggle { top: -5px; }
+	#myHeader { padding: 0px; }
+}
+ 
+/* Service, product & landing pages */
+@media (min-width:1366px) and (max-width:1639px) {
+}
+@media (max-width:1365px) {
+    .productBoxDetail h3 { font-size: 24px;}
+}
+@media (max-width:1199px) {
+    .productBoxDetail { padding: 20px;}
+    .service-bottom-form .service-bottom-left { padding-right: 0px;}
+    .service-bottom-left h3 { padding-right: 0px;}
+    .banner-bottom-box h3 { font-size: 20px;}
+    .landing-about .about-content h3 { font-size: 26px;}
+    .benefits-section .benefits-box h3 { font-size: 18px;}
+    .client-testimonial { margin-top: -130px;}
+    .testimonial-carousel .testimonial-item .testimonial-disc { padding: 0px;}
+    .client-testimonial .clients-words { padding-left: 60px; padding-right: 0px;}
+    .client-testimonial .clients-words::before { left: -2px;}
+    .btn-icon { margin-left: 6px;}
+    .btn-orange { padding: 12px 20px; font-size: 14px;}
+    .results-transparant .custom-px-big { padding-left: 10px; padding-right: 10px;}
+}
+@media (max-width:991px) {
+    .productContent, .serviceContent { margin: 40px 0;}
+    .service-bottom-form { margin-top: 40px; padding: 40px;}
+    .service-bottom-left h3 { font-size: 20px; line-height: normal;}
+    .service-bottom-left p { line-height: normal; margin-top: 20px;}
+    .bannerBottomSection .banner-bottom-box { padding: 0 10px;}
+    .banner-bottom-box img { max-height: 60px;}
+    .banner-bottom-box h3 { padding: 10px 0;}
+    .banner-bottom-box p { font-size: 14px;}
+    .landing-about .about-content h3 { font-size: 20px;}
+    .landing-about .about-content p { font-size: 14px;}
+    .benefits-section .benefits-box h3 { font-size: 14px; margin: 10px 0 4px 0;}
+    .benefits-section .benefits-box p { height: auto; font-size: 13px;}
+    .benefits-section .benefits-box { padding: 20px 15px;}
+    .benefits-section .benefits-box img { max-width: 60px;}
+    .rt-box li { padding-right: 20px; margin: 20px 0;}
+    .rt-box.right li { padding-left: 20px;}
+    .rt-box li span { font-size: 14px; margin-left: 10px;}
+    .rt-box.right li span { font-size: 14px; margin-right: 10px;}
+    .download-app { margin-top: 40px;}
+    .investment-section .investment-calculate { padding: 20px;}
+    .sectionTitle, .investment-calculate h3, .smarter-content span, .our-partners .our-partners-title { font-size: 20px;}
+    .investment-calculate h3 { margin-bottom: 20px;}
+    .investment-calculate .investment-filter { padding: 10px;}
+    .investment-filter .investment-icon { width: 40px; height: 40px; margin-right: 10px;}
+    .investment-filter .investment-icon img { max-height: 18px;}
+    .investment-section .investment-calculate .row { margin: 0 -10px;}
+    .investment-section .investment-calculate .row .col-md-4 { padding: 0 10px;}
+    .investment-filter-detail span { font-size: 12px;}
+    .investment-filter-detail .form-control, .investment-filter-detail .custom-select { font-size: 18px;}
+    .calculate-button .btn-calculate { min-width: 240px;}
+    .investment-section .calculate-status { padding: 40px 20px;}
+    .investment-section .calculate-status li span { font-size: 16px;}
+    .investment-section .calculate-status li label { font-size: 20px;}
+    .client-testimonial .clients-words::before { display: none;}
+    .client-testimonial .clients-words { padding-left: 0px;}
+    .testimonial-carousel .testimonial-item { padding: 20px 20px 60px 20px; background-size: 60px; background-position: bottom 10px right 20px;}
+    .testimonial-carousel .testimonial-item .testimonial-disc { margin-top: 20px;}
+    .testimonial-item .testimonial-detail .testimonial-user-detail { padding-left: 10px;}
+    .smarter-section { padding: 40px 0;}
+    .faq-content .faq-icon { width: 60px; height: 60px; margin-right: 15px;}
+    .faq-content .faq-icon img { max-height: 40px;}
+    .faq-content .faq-detail h3 { font-size: 14px; margin-bottom: 5px;}
+    .landing-faq .faq-content { margin-top: 30px;}
+    .our-partners .our-partners-list li { padding: 0 20px;}
+    .blog-detail-right .blog-search-area { padding: 18px; }
+    .blog-detail-right .blog-right-title { margin-bottom: 10px; }
+    .recent-posts ul li .recent-post-img { width: 50px; height: 50px; margin-right: 10px;}
+    .recent-posts ul li .recent-detail h4 { font-size: 12px; margin-bottom: 6px;}
+    .recent-detail .post-date { font-size: 12px; }
+    .recent-posts ul li, .blog-right-links ul li { margin-top: 10px; padding-bottom: 10px;}
+    .blogDetailScreen .blog-d-author { margin: 30px 0 15px 0; }
+    .blogDetailScreen .blogTitle, .blogDetailScreen .subTitle, .blogDetailScreen .listTitle, .blog-reply .reply-title { font-size: 20px; }
+    .blog-reply .form-control { height: 44px; }
+    .blog-reply textarea.form-control { height: 160px; }
+}
+@media (min-width:320px) and (max-width:767px) {
+    .innerBanner { height: 200px;}
+    .innerBannerContent h2 { font-size: 24px;}
+    .productContent, .serviceContent { margin: 20px 0;}
+    .service-bottom-form { margin-top: 20px; padding: 20px;}
+    .productContent .productContentBox { margin-bottom: 20px;}
+    .productBoxDetail p { font-size: 14px; margin: 20px 0;}
+    .serviceBoxDetails p { font-size: 14px; margin: 10px 0 16px 0;}
+    .serviceBoxDetails p br { display: none;}
+    .service-bottom-form .service-bottom-left { text-align: center;}
+    .service-bottom-left p { margin: 20px 0;}
+    .service-form .readMore { margin: 0 auto;}
+    .landingBanner { text-align: center; padding: 20px 0 180px 0; background-size: 320px; background-position: center bottom;}
+    .landingBanner h3 { font-size: 24px;}
+    .landingBanner h3 br { display: none;}
+    .bannerBottomSection { padding: 0;}
+    .bannerBottomSection .banner-bottom-box { border-right: 0px; border-bottom: 1px solid #fff; padding: 10px 0;}
+    .banner-bottom-box h3 { margin-bottom: 0px; padding-bottom: 0px;}
+    .bannerBottomSection .row>*:last-child .banner-bottom-box { border-bottom: 0px;}
+    .sectionPadding, .landing-faq { padding: 20px 0; text-align: center;}
+    .landing-about .about-content { padding-right: 0px;}
+    .landing-about .about-image { text-align: center; padding: 0 20px;}
+    .results-transparant { padding: 20px 0;}
+    .sectionTitle, .investment-calculate h3, .smarter-content span, .our-partners .our-partners-title { font-size: 18px; text-align: center;}
+    .rt-box li { margin: 4px 0; width: 100%; padding: 4px !important;} 
+    .results-transparant .custom-px-big .text-center .img-fluid { width: 60%; display: none;}
+    .rt-box li .rt-icon { width: 42px; height: 42px;}
+    .rt-box li .rt-icon img { max-width: 20px;}
+    .results-transparant .rt-box.right { align-items: flex-start;}
+    .rt-box.right li span { order: 2; margin: 0 0 0 10px;}
+    .download-app { margin-top: 20px;}
+    .investment-calculate h3 { margin-bottom: 0px;}
+    .investment-calculate .investment-filter { margin-top: 20px;}
+    .calculate-button { padding-top: 20px;}
+    .investment-section .calculate-status { padding: 20px; flex-direction: column;}
+    .investment-section .calculate-status li { padding: 10px 0;}
+    .investment-testimonial { padding: 20px 0;}
+    .investment-section { top: 0px; height: inherit;}
+    .client-testimonial { margin-top: 0; padding-bottom: 0px;}
+    .client-testimonial .clients-words { padding: 20px 0; text-align: center;}
+    .testimonial-carousel .testimonial-item { padding: 20px; background: #fff;}
+    .testimonial-item .testimonial-detail { justify-content: center;}
+    .testimonial-item .testimonial-detail .testimonial-user-detail { flex: none;}
+    .testimonial-carousel .testimonial-item .testimonial-disc { text-align: center;}
+    .smarter-section { padding: 20px;}
+    .smarter-section .smarter-content { flex-direction: column;}
+    .smarter-content span { padding: 0 0 20px 0;}
+    .sectionDisc br { display: none;}
+    .landing-faq .faq-content { margin-top: 20px; flex-direction: column; align-items: center;}
+    .faq-content .faq-icon { margin: 0px; }
+    .faq-content .faq-detail h3 { margin: 10px 0;}
+    .our-partners .our-partners-tag { font-size: 14px;}
+    .our-partners .our-partners-list { margin: 20px 0; overflow-x: auto; padding: 0px;}
+    .our-partners .our-partners-list li { padding: 10px; flex: 0 0 33.33%;}
+    .our-partners .our-partners-list li img { max-height: 30px;}
+    /*12-05-2022*/
+    .logo img { min-width: 80px; max-width: 80px; width: 80px;}
+	.fixed-top.sticky .navbar-toggler { top: 32px; }
+	.fixed-top .navbar { margin-top: 27px; z-index: -1; }
+	.navbar-toggler { top: 68px; }
+	#hero\ { padding: 140px 0; }
+	.bannerText h1 { font-size: 24px; line-height: 1.5;}
+	.btn-get-started { display: inline-block; padding: 10px 30px; font-size: 18px;}
+	#service, #whychoose, #invest_option, #plan_financial, #app, #clientSay, #accountbg,
+	#fundPartner, footer, #abouttopsection, #abouttawardsection, .calculation-content, #faqssection { padding: 40px 0; }
+	.section-title, .sky, .banner-bottom-box h3 { font-size: 18px; line-height: 1.2;}
+	.home-service-section .serviceBoxDetails img {max-height: 40px;}
+	.heding { font-size: 18px; }
+	.ourProductBtn { opacity: 1; z-index: 1;}
+	.ourProductSlider .owl-item .op-silder-disc, .htset { min-height: inherit; }
+	#whychoose p { font-size: 16px; padding-top: 20px; padding-bottom: 0px;}
+	.whyusBox { padding: 20px; min-height: inherit; margin-top: 20px;}
+	.whyusBox .chooseIcon img { width: 50px; }
+	.whyusBox .titleName { font-size: 16px; padding-top: 10px;}
+	.count-box { margin-top: 20px; }
+	.count-box .count { font-size: 30px; line-height: 1.5;}
+	.count-box p { margin: 0px; padding: 0px; font-size: 18px; line-height: 1.5;}
+	#invest_option .subTitle { font-size: 22px; margin-bottom: 10px;}
+	.yearBar { margin: 20px 0 0 0; max-width: inherit;}
+	.year { font-size: 18px; }
+	.barValue { font-size: 20px; width: inherit; padding: 4px 10px 2px 10px; margin: 0px;}
+	.barContainer { margin-top: 20px; }
+	.investType { margin-top: 40px; padding: 20px;}
+	.investList li { padding: 0; text-align: center; font-size: 18px; width: 100%;}
+	#invest_option .investList li { width: 50%; }
+	.investList li:nth-child(1), .investList li:nth-child(2) { margin-bottom: 20px; }
+	.investList li h5, .plan_text h2, .calculation-content h2 { font-size: 20px; }
+	.discrp { margin-top: 40px;}
+	.discrp p { font-size: 16px; }
+	.discrp p:last-child { margin-bottom: 0px; }
+	.plan_text { padding-top: 40px; text-align: center;}
+	.plan_text h2 { margin-bottom: 10px; }
+	.plan_text p { margin-bottom: 20px; }
+	#plan_financial .plan_graph { margin-top: 20px; }
+	.appDetail p { font-size: 14px; line-height: 24px;}
+	.downloadTitle { font-size: 20px; line-height: 1.2; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; margin: 0px;}
+	.downloadTitle span { font-size: 24px; margin: 0 10px;}
+	.appDetail .dwnldBtn { display: flex; align-items: center;}
+	.card h6 { font-size: 20px; padding-top: 10px; margin: 0px;}
+	.quote { padding: 10px 0; }
+	.quote img { width: 24px; }
+	.whatOurClientSaySlider p.content { margin: 0px; }
+	.whatOurClientSaySlider.owl-carousel .owl-stage-outer { margin-bottom: 0px; padding: 0px;}
+	.whatOurClientSaySlider .item .card { box-shadow: none; border: 1px solid #869791 !important;}
+	.mobAccount h2 { font-size: 20px; }
+	.mobileField .form-group label { font-size: 20px; }
+	.countryCode { font-size: 24px; left: 0px;}
+	.mobileField .form-group .form-control { font-size: 24px; height: 32px; padding-left: 60px;}
+	.accNeed { font-size: 16px; margin-bottom: 15px;}
+	.letsStart { font-size: 20px; padding: 10px 20px; }
+	#blogs { padding-top: 40px; }
+	#blogs .section-title.mb50 { margin-bottom: 0px; }
+	.blogDetail { padding: 20px; }
+	.blogTitle { font-size: 16px; }
+	.blog-author .blog-date .calendar-icon { text-align: left; }
+	.footerLink { padding-top: 0px; }
+	.addressCol { padding: 0px; }
+	.footerLink li:first-child { margin-bottom: 20px; }
+	.footerLogo img { width: 100px !important; }
+	.addressCol address { padding: 20px 0; line-height: 1.5;}
+	.addressCol address br { display: none; }
+	.footerLink li h4 { font-size: 20px; margin-bottom: 20px;}
+	.footerLink li .sublink li { margin: 10px 0;}
+	.footerLink li .sublink li:after { top: 0px; }
+	footer p { margin: 20px 0; }
+	.copyright { padding-bottom: 0px; }
+	header .dropdown { margin: 0px; }
+	.nav-menu > ul > li { padding-bottom: 10px !important; }
+	.landingBanner, #calheader { margin-top: 102px; }
+	.innercontent .investList, .calinvestList { display: flex; flex-direction: column;}
+	.innercontent .btncal { width: 100%; }
+	.innercontent .calinvestList li { width: 100%; padding-left: 0px; margin-bottom: 10px;}
+	.investment-section .investType.innersec, .newDesignInvestment { text-align: center; }
+	.investment-section .investType.innersec h5, .newDesignInvestment h5 { font-size: 18px; margin-bottom: 4px;}
+	.investment-section .investType.innersec h3, .newDesignInvestment h3 { font-size: 24px; }
+	.service-form .form-control { border: none; }
+	.nav-menu ul { width: 100%; margin: 0px;}
+	#calheader { padding: 20px 0 30px 0; }
+	#calheader .headertxt { margin-bottom: 0px; }
+	.storytext { padding: 20px; margin-top: 20px;}
+	.storytext p { font-size: 15px; margin-bottom: 10px;}
+	.appImg img { margin-bottom: 15px; }
+	 #abouttopsection h4, #aboutbottomsection h4, #about-marketing-strategy h4, #about-pillar-section h4, #abouttawardsection h4, #teamallsection h4, .budgetingserv-title { font-size: 20px; line-height: 1.2;}
+	 #about-marketing-strategy { padding: 40px 20px; }
+	 #about-pillar-section .smalltxtred, .tabsrowdata p, #about-marketing-strategy .smalltxtred, #teamallsection .smalltxtred, #contactusfromsection h4 { font-size: 16px; line-height: 1.5;}
+	 #exTab3 li a, #exTab3 li.active a { font-size: 16px; font-weight: normal;}
+	 #exTab3 li, #exTab3 li.active { width: 50%; padding: 6px 12px;}
+	 .tabsrowdata { padding: 15px 0; }
+	 #about-marketing-strategy { padding: 40px 4px; }
+	 #about-marketing-strategy .graybgrows { margin: 0px; padding: 0px;}
+	 .graybgrows h6 { font-size: 16px; }
+	 .awardandcerti .owl-nav { display: none !important; }
+	 .awardandcerti.owl-carousel .owl-stage-outer, .awardandcerti.owl-carousel .owl-item { margin-bottom: 0px !important; }
+	 #teamallsection, #contactusfromsection, #budgetingservice { padding-top: 40px; }
+	 .loactionbox { margin-right: 0px; }
+	 .footerLink .socilaLink { margin: 20px 0 4px 0; }
+	 .contactsolink a { padding: 6px 10px; font-size: 16px;}
+	 .budgetingserv-title { font-size: 16px; }
+	 #contactusfromsection h4 { font-size: 14px; font-weight: 500; margin-bottom: 0px; padding-bottom: 10px;}
+	 #contactusform .form-control, #allserviceforms .form-control { padding: 2px 10px 4px 10px; height: 48px; margin-bottom: 15px;}
+	 #contactusfromsection .btnfrmserv, #allserviceforms .btnfrmserv { padding: 6px 12px; color: #fff;}
+	 #contactmap iframe { height: 320px; }
+	 .dropdown-menu { width: 100%; }
+	 .newDesignCalculation .radiobtnsip { margin-bottom: 20px; }
+	 #abouttopsection .storytext { padding-bottom: 0px !important; }
+	 #aboutbottomsection { padding-top: 0px; }
+	 .calculation-content { margin-bottom: 0px; }
+	 .dropdown-item:active, .dropdown-item:focus, .dropdown-item:hover { color: #272727; background: transparent;}
+	 #blogs-section { padding: 10px 0 40px 0; }
+	 #blogs-section .blog-box .blogDetail .buttondiv { margin: 30px 0 10px 0; }
+	 #blogs-section .blog-box .blogDetail .buttondiv .blogbutton { padding: 6px 20px 8px 20px;}
+	 .blog-author .blog-logo a img { height: auto; }
+	 .budgetingservdetail span { line-height: normal; margin-bottom: 10px; display: block;}
+	 .leftarrows img, .rightarrows img { width: 30px; }
+	 .leftarrows h4 { font-size: 18px; margin-bottom: 0px;}
+	 #allservicenavigation { padding: 40px 10px; }
+	 #allserviceforms { padding: 0px 20px; margin-bottom: 40px;}
+	 #allserviceforms .confrmsection { padding: 0px; }
+	 .allserviceformsdetails-title, .servicetopheading, #faqssection h4 { font-size: 20px; line-height: 1.2;}
+	 #allservcontact-form .row { padding-bottom: 0px; }
+	 #allserviceforms .btnfrmserv { margin-top: 15px; }
+	 .frminnerdiv { padding: 20px !important; }
+	 .goldtxt { font-size: 20px; }
+	 .bluetxtfaqs { font-size: 16px; }
+	 .myaccordion .btn { text-align: left; font-size: 14px;}
+	 .myaccordion .fa-stack { font-size: 16px; flex: none; margin-left: 10px;}
+	 .myaccordion .card-header  { padding: 6px 12px; }
+	 #faqssection .card-body { font-size: 14px; line-height: normal;}
+	 .myaccordion { margin-bottom: 0px; }
+	 #videosection { padding-bottom: 15px; }
+	 #fundPartner .partnerIcon { display: flex; align-items: center; overflow-x: auto;}
+	 #fundPartner .partnerIcon li { width: auto; }
+	 #fundPartner .partnerIcon li img { max-width: inherit; }
+	 #about-marketing-strategy { padding-top: 0px; }
+	 #about-marketing-strategy h4 { text-align: center; }
+	 .main-timeline { padding: 0 20px; }
+	 .title { font-size: 16px; padding: 10px 0 0 0;}
+	 .description { font-size: 14px; line-height: 1.2;}
+	 .timeline-year { font-size: 20px; right: 0px;}
+	 .main-timeline .timeline:nth-child(even) .timeline-year { left: 0px; }
+	 .timeline-content:before { width: 10px; }
+	 .main-timeline .timeline:nth-child(even) .timeline-content { padding-top: 5px; }
+	 #about-pillar-section #exTab3 .nav { overflow-x: auto; flex-wrap: nowrap;}
+	 #about-marketing-strategy .graybgrows { text-align: center; }
+	 #about-marketing-strategy .graybgrows .appImg { padding: 10px 0; }
+	 .benefits-section .sectionTitle { text-shadow: none; }
+	 .btn-blue { padding: 6px 20px; }
+	 .blogDetailScreen .blog-d-author li { margin-right: 10px; }
+	 .blogDetailScreen .blog-d-author li:last-child { margin-right: 0px; }
+	 .blogDetailScreen .blog-d-author li a { font-size: 13px; }
+	 .blogDetailScreen .blog-d-author li a img { margin-right: 6px; }
+	 .blogDetailScreen .blogTitle, .blogDetailScreen .subTitle, .blogDetailScreen .listTitle, .blog-reply .reply-title { font-size: 16px; }
+	 .blog-reply .form-control { margin-top: 16px; }
+	 .blogDetailScreen .blog-reply { margin: 20px 0; }
+	 .blog-detail-right .blog-search-area { margin-bottom: 20px; }
+	 .blog-detail-right .blog-search-area:last-child { margin-bottom: 0px; }
+	 #blogs-section.blogDetailScreen { padding-bottom: 0px; }
+	 .blog-right-links ul li:last-child, .recent-posts ul li:last-child { padding-bottom: 0px; }
+}
+@media (min-width: 375px) and (max-width: 767px) {
+	.results-transparant .custom-px-big .col-md-4 { width: 50%; padding-left: 10px; padding-right: 10px;}
+	.results-transparant .custom-px-big .col-md-4:nth-child(2) { display: none; }
+	.results-transparant .custom-px-big .col-md-4:first-child { padding-left: 0px; }
+	.results-transparant .custom-px-big .col-md-4:last-child { padding-right: 0px; }
+	.rt-box li span { font-size: 13px !important;}
+	.rt-box li .rt-icon { width: 40px; height: 40px;}
+}
+@media screen and (min-device-width: 320px) and (max-device-width: 767px) and (orientation : portrait) {
+
+}
